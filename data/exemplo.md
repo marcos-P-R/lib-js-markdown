@@ -31,3 +31,4 @@ I performed it 10 times and got the result in seconds
 16.34
 15.92
 ```
+[DEV](https://dev.to/shubhamtiwari909/which-js-loop-is-fast-3k00)
